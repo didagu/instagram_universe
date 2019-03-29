@@ -1,0 +1,77 @@
+Unbanning on Instagram 101
+
+1) Chapter 0
+- Get on a PC (fxck your smartphone)
+- Turn off any privacy plugin, proxies and vpns. Use your residential home IP
+- Set your accepted language configuration in your browser to "en-us"
+
+2) Chapter 1 : Myths about Unbanning
+- No one can magically unban you, anyone that ask you to pay and get unbanned
+in 24 hours is a scammer except he still goes through this article and bills
+you for your ignorance.
+- Your Ip or browser fingerprint won't be blocked for sending unban requests,
+even if you send in 1000 daily.
+- If you got banned, you violated the TOS. As simple as that, don't try to make
+yourself innocent.
+- Sending a picture of yourself multiple times won't be an issue. Keep making them
+- You can send unban requests even from an email that differs from the email in
+the Instagram account
+
+3)Chapter 2: Let us get shit done
+- go to https://help.instagram.com/contact/1652567838289083 or
+https://www.facebook.com/help/instagram/contact/1652567838289083 and fill out the form.
+- how to fill the form:
+    Q: is this account used to represent a business, product or service
+    A: No
+
+    Q: Full name
+    A: this name does not matter. pick whatever you want
+
+    Q: Instagram username
+    A: your IG without the @
+
+    Q: email address
+    A: your beautiful email
+
+    Q: which country are you writing from?
+    A: Always pick USA
+
+- Once you filled out their beautiful designed form, you will receive a email (within 15min
+ but sometimes longer), depending how much load their mailservers have. Don't even bother
+ typing anything, just attach the required selfie pictures, as they told you in the email.
+ If they reject you, simply write a response with a lot of bla bla bla (it helps sometimes),
+ but don't wait for an answer. everything is automated with all the AI shit.
+
+4)Chapter 3: Keep sending unban requests
+SECRET: Keep Sending Unban Requests Until You Get Unbanned, No Matter How Often You Will Do
+It Or How Long It Takes.
+If you are too lazy to do this, don't bother starting the process.
+
+You will likely noy receive any reply on the second unban request on the same email address. 
+Instagram treats an email address as a user so they handle your mess once and then their
+decision is permanent. That is why you need the trick in the next chapter.
+
+5)Chapter 4: Overuse GMAIL
+We all know the dot trick for google e-mails aliases . As an example , the following
+E-Mail aliases will all land in your inbox:
+
+abc@gmail.com
+a.b.c@gmail.com
+a.bc@gmail.com
+ab.c@gmail.com
+etc
+Here comes the important part : You need to respond with the same E-Mail that you received
+the E-Mail on . So for every unban request you need to change your google mail settings .
+STEPS:
+    - Go into your google setting .
+    - Click on "Add another email address"
+    - Fill in the extra e-mail of your choice.
+    - Tick treat as an alias and Click next step.
+    - And that is it! Next time you want to respond to an unban request, you just need to
+      select the correct reply-with address from the dropdown menu.
+
+I hope this helped ! Please this is delicate. Any mistake can make your account gone forever.
+READ carefully and slowly at first.
+
+I had to make this tutorial available as quick as possible, that is why I put in a text format.
+But once my blog is up, you will find it there.
